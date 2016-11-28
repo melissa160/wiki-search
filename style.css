@@ -46,7 +46,7 @@ input{
 	border-radius: 10px;
 	font-size: larger;
 	padding: 5px;
-	background-color: #F7F5D4;
+	background-color: #F7F5E1;
 	color: #07707d;
 }
 
@@ -65,7 +65,7 @@ input{
 	border: 1px solid #5fc0cc;
 	border-radius: 10px;
 	padding: 8px;
-	background-color: #F7F5D4;
+	background-color: #F7F5E1;
 }
 .search-container{
 	flex-direction: row;
