@@ -44,7 +44,7 @@ label, input{
 input{
 	width: 45vh;
 	border-radius: 10px;
-	font-size: 14px;
+	font-size: larger;
 	padding: 5px;
 	background-color: #F7F5D4;
 	color: #07707d;
@@ -55,7 +55,7 @@ input{
 	padding-top: 30px;
 	padding-bottom: 20px;
 	text-align: justify;
-	font-size: 14px;
+	font-size: large;
 	font-family: 'Sanchez', serif;
 }
 
@@ -81,7 +81,7 @@ input{
 button{
 	padding: 5px 10px;
 	border-radius: 10px 20px;
-	font-size: 14px;
+	font-size: larger;
 	background: #07707d;
 	color:#e3e6c5;
 	cursor: pointer;
@@ -96,6 +96,7 @@ button{
 h1{
 	color: #2d3014;
 	margin:0;
+	font-size: -webkit-xxx-large;
 }
 
 a{
@@ -119,7 +120,7 @@ a{
 	}
 
 	h1{
-		font-size: 80px;s
+		font-size: 80px;
 	}
 	.p, .pfijo{
 		font-size: 32px;
